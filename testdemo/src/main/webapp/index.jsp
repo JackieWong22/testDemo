@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-index   ！！！！
+index   hello!!This is a simple page!!!�
 </body>
 </html>
